@@ -3,3 +3,4 @@
 __pycache__/
 *.pyc
 oracle_history.jsonl
+.oracle_input_history
